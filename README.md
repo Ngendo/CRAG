@@ -1,1 +1,2 @@
-# CRAG
+# eventofmine
+ events planning site
